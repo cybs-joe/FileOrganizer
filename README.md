@@ -20,7 +20,7 @@ python file-org.py
 | OS Images | .iso |
 | Other | anything else |
 
-| Column 1 | Column 2|
+| Version | Status|
 |----------|----------|
-| v1       |    ✅    |
+| v1       |             ✅    |
 | v2       | Pending(will include more file types)  |
